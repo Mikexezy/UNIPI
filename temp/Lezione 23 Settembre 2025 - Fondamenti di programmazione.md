@@ -1,0 +1,3 @@
+---
+MOC: "[[Fondamenti di programmazione]]"
+---
