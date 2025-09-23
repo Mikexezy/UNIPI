@@ -1,10 +1,10 @@
 ---
-prof: Marco Cococcioni
-Sito prof: https://docenti.ing.unipi.it/m.cococcioni/
+Prof: Marco Cococcioni
+Sito Prof: https://docenti.ing.unipi.it/m.cococcioni/
 Libro di testo: Introduzione alla Programmazione ed Elementi di strutture dati con il linguaggio C++
 Libro di testo 2: Note sull'organizzazione di un calcolatore e Rappresentazione dell'informazione
 ---
-#moc
+#moc 
 
 # Laboratorio
 
@@ -14,4 +14,4 @@ Libro di testo 2: Note sull'organizzazione di un calcolatore e Rappresentazione 
 | Aula      | A13        | F9               |
 
 # PDF 1
-![[Fondamenti di programmazione 1.pdf]]
+![[Fondamenti di programmazione PDF1.pdf]]
