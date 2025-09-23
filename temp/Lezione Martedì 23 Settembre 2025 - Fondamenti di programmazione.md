@@ -56,3 +56,6 @@ Mostra le due operazione CIN e COUT della libreria "iostream", incluse con "#inc
 
 ---
 
+### Cosa sono i bit, byte e come funziona la RAM
+
+￼￼￼![[IMG_0560.jpeg]]
