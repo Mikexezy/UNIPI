@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Lezione 23 Settembre 2025 - Fondamenti di programmazione.md",
+                "file": "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 23 Settembre 2025 - Fondamenti di programmazione"
+              "title": "Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Fondamenti di programmazione.md",
+                "file": "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondamenti di programmazione"
+              "title": "Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"| Giovedì   | Gruppo A   | Gruppo B         || --------- | ---------- | ---------------- || Matricola | 0, 1, 2, 3 | 4, 5, 6, 7, 8, 9 |\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,11 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180add71ca81c89e",
+  "active": "40ff1d7ef5b589d0",
   "lastOpenFiles": [
-    "temp/Lezione 23 Settembre 2025 - Fondamenti di programmazione.md",
-    "temp",
     "MOC/Fondamenti di programmazione.md",
+    "assets/PDF/Fondamenti di programmazione 1.pdf",
+    "assets/PDF",
+    "assets",
+    "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
+    "temp",
     "Note",
     "MOC",
     "Ciao questo è il mio primo file di prova del vault..md",

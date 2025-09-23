@@ -11,5 +11,7 @@ Libro di testo 2: Note sull'organizzazione di un calcolatore e Rappresentazione 
 | Giovedì   | Gruppo A   | Gruppo B         |
 | --------- | ---------- | ---------------- |
 | Matricola | 0, 1, 2, 3 | 4, 5, 6, 7, 8, 9 |
-| Aula      | A14        | F8               |
+| Aula      | A13        | F9               |
 
+# PDF 1
+![[Fondamenti di programmazione 1.pdf]]
