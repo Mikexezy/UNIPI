@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
+                "file": "MOC/Fondamenti di programmazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione"
+              "title": "Fondamenti di programmazione"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40ff1d7ef5b589d0",
+  "active": "a4d7f2d1f766f8da",
   "lastOpenFiles": [
     "MOC/Fondamenti di programmazione.md",
+    "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
     "assets/PDF/Fondamenti di programmazione 1.pdf",
     "assets/PDF",
     "assets",
-    "temp/Lezione Martedì 23 Settembre 2025 - Fondamenti di programmazione.md",
     "temp",
     "Note",
     "MOC",
