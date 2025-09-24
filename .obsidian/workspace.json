@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Fondamenti di Programmazione 24-09-25.md",
+                "file": "note/Fondamenti di Programmazione 24-09-25.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,8 +180,8 @@
   "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
     "assets/img/cin C++.png",
-    "Note/Fondamenti di Programmazione 23-09-25.md",
-    "Note/Fondamenti di Programmazione 24-09-25.md",
+    "note/Fondamenti di Programmazione 23-09-25.md",
+    "note/Fondamenti di Programmazione 24-09-25.md",
     "assets/img/cout C++.png",
     "README.md",
     "assets/img/Formula della sommatoria.png",
@@ -202,7 +202,7 @@
     "assets/PDF",
     "assets",
     "temp",
-    "Note",
+    "note",
     "MOC",
     "Ciao questo è il mio primo file di prova del vault..md",
     "Welcome.md"
