@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Analisi 1  - 23-09-25"
             }
+          },
+          {
+            "id": "36216a7fd770b74a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/PDF/Algebra Lineare - 23-09-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algebra Lineare - 23-09-25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +206,9 @@
   },
   "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
+    "note/Algebra Lineare - 23-09-25.md",
+    "assets/PDF/Algebra Lineare - 23-09-25.pdf",
     "note/Analisi 1  - 23-09-25.md",
-    "Untitled.md",
     "assets/PDF/Analisi 1  - 23-09-25.pdf",
     "note/Fondamenti di Programmazione - 24-09-25.md",
     "note/Fondamenti di Programmazione - 23-09-25.md",
@@ -219,7 +232,6 @@
     "assets/PDF",
     "assets",
     "temp",
-    "note",
     "Ciao questo è il mio primo file di prova del vault..md",
     "Welcome.md"
   ]
