@@ -35,7 +35,7 @@ Il byte che riceverà il calcolatore sarà formato da uno 0 iniziale, a seguire 
 | 101     | 5        |
 | 110     | 6        |
 
-Mi dispiace prof per non aver seguito, però mi somiglia troppo a La Placa.
+Mi dispiace prof per non aver seguito, non riesco 😔.
 Si è messo a spiegare tutte le basi...
 
 ---
@@ -66,4 +66,68 @@ Mod invece ci permette di ottenere il resto di una divisione.
 
 Queste due operazioni le troviamo nei vari linguaggi di programmazione.
 
+---
 
+### Inizializzazione di una variabile int senza segno
+
+In C++ possiamo allocare numeri reali in variabili da 16 bit utilizzando il tipo:
+```C++ 
+unsigned short int nome_variabile;
+```
+
+, in una variabile da 32 bit utilizzando:
+```C++
+unsigned int nome_variabile;
+```
+
+, e una variabile da 64 bit utilizzando:
+```C++
+unsigned long int nome_variabile;
+```
+
+>"non è detto che vengano allocati 64 bit, potrebbe allocare ugualmente 32 bit".
+
+---
+
+### Inizializzazione di una variabile booleana
+
+In C++ possiamo inizializzare una variabile booleana utilizzando il tipo:
+```C++
+bool nome_variabile;
+```
+
+>Il tipo bool può assumere soltanto i valori 0 e 1, oppure true e false.
+
+E' possibile effettuare operazioni logiche come OR, AND, NOT ecc.
+
+| Operazione | Simbologia |     | Valore 1 | Valore 2 | Risultato |
+| :--------: | :--------: | --- | :------: | :------: | :-------: |
+|     OR     |    \|\|    |     |  false   |  false   |   false   |
+|     OR     |    \|\|    |     |  false   |   true   |   true    |
+|     OR     |    \|\|    |     |   true   |  false   |   true    |
+|     OR     |    \|\|    |     |   true   |   true   |   true    |
+|            |            |     |          |          |           |
+|    AND     |     &&     |     |  false   |  false   |   false   |
+|    AND     |     &&     |     |  false   |   true   |   false   |
+|    AND     |     &&     |     |   true   |  false   |   false   |
+|    AND     |     &&     |     |   true   |   true   |   true    |
+|            |            |     |          |          |           |
+|    NOT     |     !      |     |   true   |          |   false   |
+|    NOT     |     !      |     |  false   |          |   true    |
+
+---
+
+### Principali oggetti della libreria IO 
+
+In C++ nella libreria standard IO (iostream), troviamo i due principali oggetti...
+
+output per stampare sul terminale:
+```C++
+cout<<"Hello World"<<endl;
+```
+
+input da inserire nel terminale:
+```C++
+unsigned int input;
+cin>>input;
+```
