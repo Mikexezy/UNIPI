@@ -41,14 +41,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "assets/PDF/Algebra Lineare - 23-09-25.pdf"
+                "file": "assets/PDF/Pagani-Salsa Analisi 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Algebra Lineare - 23-09-25"
+              "title": "Pagani-Salsa Analisi 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,14 +204,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf162d84c6d603ff",
+  "active": "a2f369e5744f3e59",
   "lastOpenFiles": [
-    "note/Algebra Lineare - 23-09-25.md",
-    "assets/PDF/Algebra Lineare - 23-09-25.pdf",
+    "assets/PDF/Pagani-Salsa Analisi 1.pdf",
     "note/Analisi 1  - 23-09-25.md",
-    "assets/PDF/Analisi 1  - 23-09-25.pdf",
+    "note/Algebra Lineare - 23-09-25.md",
+    "assets/PDF/Geometria e algebra lineare.pdf",
+    "MOC/Fondamenti di Programmazione.md",
     "note/Fondamenti di Programmazione - 24-09-25.md",
     "note/Fondamenti di Programmazione - 23-09-25.md",
+    "assets/PDF/Algebra Lineare - 23-09-25.pdf",
+    "assets/PDF/Analisi 1  - 23-09-25.pdf",
     "assets/img/cin C++.png",
     "assets/img/cout C++.png",
     "README.md",
@@ -219,13 +222,10 @@
     "assets/img/Conversione Da Base 10.png",
     "assets/PDF/Fondamenti di programmazione PDF1.pdf",
     "assets/img/TabellaASCII.png",
-    "MOC/Fondamenti di Programmazione.md",
     "23-09-25.md",
     "2025-09-23.md",
     "MOC/Geometria e Algebra Lineare.md",
     "MOC/Analisi 1.md",
-    "assets/PDF/Geometria e algebra lineare.pdf",
-    "assets/PDF/Pagani-Salsa Analisi 1.pdf",
     "assets/img/DisegnoRam.jpeg",
     "AlgLin 1.pdf",
     "assets/img",
