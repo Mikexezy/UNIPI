@@ -121,13 +121,17 @@ E' possibile effettuare operazioni logiche come OR, AND, NOT ecc.
 
 In C++ nella libreria standard IO (iostream), troviamo i due principali oggetti...
 
-output per stampare sul terminale:
+output per stampare qualcosa sul terminale:
 ```C++
-cout<<"Hello World"<<endl;
+cout << "Hello World" << endl;
 ```
+![[cout C++.png]]
 
-input da inserire nel terminale:
+, per richiedere un input da terminale:
 ```C++
 unsigned int input;
-cin>>input;
+
+cout << "Inserisci un numero: ";
+cin >> input;
 ```
+![[cin C++.png]]
