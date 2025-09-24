@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Fondamenti di Programmazione 24-09-25.md",
+                "file": "note/Fondamenti di Programmazione - 24-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondamenti di Programmazione 24-09-25"
+              "title": "Fondamenti di Programmazione - 24-09-25"
+            }
+          },
+          {
+            "id": "a2f369e5744f3e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Analisi 1  - 23-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analisi 1  - 23-09-25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,9 +194,12 @@
   },
   "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
+    "note/Analisi 1  - 23-09-25.md",
+    "Untitled.md",
+    "assets/PDF/Analisi 1  - 23-09-25.pdf",
+    "note/Fondamenti di Programmazione - 24-09-25.md",
+    "note/Fondamenti di Programmazione - 23-09-25.md",
     "assets/img/cin C++.png",
-    "note/Fondamenti di Programmazione 23-09-25.md",
-    "note/Fondamenti di Programmazione 24-09-25.md",
     "assets/img/cout C++.png",
     "README.md",
     "assets/img/Formula della sommatoria.png",
@@ -189,7 +207,6 @@
     "assets/PDF/Fondamenti di programmazione PDF1.pdf",
     "assets/img/TabellaASCII.png",
     "MOC/Fondamenti di Programmazione.md",
-    "Untitled.md",
     "23-09-25.md",
     "2025-09-23.md",
     "MOC/Geometria e Algebra Lineare.md",
@@ -203,7 +220,6 @@
     "assets",
     "temp",
     "note",
-    "MOC",
     "Ciao questo è il mio primo file di prova del vault..md",
     "Welcome.md"
   ]
