@@ -23,7 +23,24 @@ Il byte che riceverà il calcolatore sarà formato da uno 0 iniziale, a seguire 
 
 ### Mi dispiace professore
 
-"O ora vi spiego come funziona la rappresentazione posizionale della base decimale e binaria", purtroppo ho dovuto spegnere il cervello, mi dispiace per non aver seguito.
+"O ora vi spiego come funziona la rappresentazione posizionale della base decimale e binaria"
+
+| Binario | Decimale |
+| ------- | -------- |
+| 000     | 0        |
+| 001     | 1        |
+| 010     | 2        |
+| 011     | 3        |
+| 100     | 4        |
+| 101     | 5        |
+| 110     | 6        |
+
+Mi dispiace prof per non aver seguito, però mi somiglia troppo a La Placa.
+Si è messo a spiegare tutte le basi...
+
+(pag. 44 - [[Fondamenti di programmazione PDF1.pdf]])
+![[Screenshot 2025-09-24 at 09.44.58.png]]
+Ed eccoci qua con la formula della sommatoria...
 
 ---
 
