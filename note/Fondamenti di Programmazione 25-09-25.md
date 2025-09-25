@@ -1,5 +1,5 @@
 ---
-MOC: "[[Lab Fondamenti di Programmazione]]"
+MOC: "[[Fondamenti di Programmazione]]"
 ---
 $N = (1010111)_2$ , dobbiamo convertirlo in base 10.
 
@@ -57,7 +57,7 @@ $$(01011101)_2 = (?)_{16}$$
 
 - Soluzione 2 :
 	1. Notiamo che $\beta_2 = 2^4 = \beta_1^4$
-	2. ![[Pasted image 20250925151446.png]]
+	2. ![[Suddivisione Numero Binario 25-09-25.png]]
 	
 	3. $(1101)_2 = 1*2^0 + 0*2^1 + 1*2^2 + 1*2^3$
 	4. $= 1 + 0 + 4 + 8 = (13)_{10} = (D)_{16}$

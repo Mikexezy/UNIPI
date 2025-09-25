@@ -5,8 +5,23 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#moc",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "#teo",
+      "color": {
+        "a": 1,
+        "rgb": 38624
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -14,9 +29,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.474527994791667,
-  "repelStrength": 9.47916666666667,
+  "repelStrength": 14.9601236979167,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.0434454614729076,
+  "scale": 0.6619030776258374,
   "close": false
 }
