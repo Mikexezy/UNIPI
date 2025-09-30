@@ -14,4 +14,9 @@ Libro di testo 2: Note sull'organizzazione di un calcolatore e Rappresentazione 
 | Aula      | A13        | F9               |
 
 # PDF 1
-![[Fondamenti di programmazione PDF1.pdf]]
+![[assets/PDF/Fondamenti di programmazione PDF1.pdf]]
+
+---
+# PDF 2
+
+![[Fondamenti di programmazione PDF2.pdf]]

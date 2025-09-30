@@ -1,7 +1,7 @@
 ---
 MOC: "[[Fondamenti di Programmazione]]"
 ---
-"Rappresentazione dell'informazione (2/2)" - [[Fondamenti di programmazione PDF1.pdf]]
+"Rappresentazione dell'informazione (2/2)" - [[assets/PDF/Fondamenti di programmazione PDF1.pdf]]
 
 Spiega come funzionano i bit e come funziona il byte, facendo capire quante combinazioni è possibile avere con $2^8$.
 
@@ -42,7 +42,7 @@ Si è messo a spiegare tutte le basi...
 
 ### Conversioni 
 
-(pag. 44 - [[Fondamenti di programmazione PDF1.pdf]])
+(pag. 44 - [[assets/PDF/Fondamenti di programmazione PDF1.pdf]])
 ![[Formula della sommatoria.png]]
 Ed eccoci qua con la formula della sommatoria...
 
