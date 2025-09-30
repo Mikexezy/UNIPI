@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Fondamenti di Programmazione 25-09-25.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondamenti di Programmazione 25-09-25"
+              "title": "README"
             }
           }
         ],
@@ -192,19 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb61555a557ee65",
+  "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
+    "assets/img/sticker.md",
     "README.md",
+    "note/Fondamenti di Programmazione 25-09-25.md",
     "assets/img/Struttura di un programma.png",
     "note/Lab Fondamenti di Programmazione - 25-09-25.md",
     "note/Fondamenti di Programmazione - 24-09-25.md",
     "note/Fondamenti di Programmazione - 23-09-25.md",
     "note/Analisi 1  - 23-09-25.md",
-    "note/Fondamenti di Programmazione 25-09-25.md",
     "note/Algebra Lineare - 23-09-25.md",
     "note/Analisi 1 - 24-09-25.md",
     "note/Fondamenti di Programmazione - 30-09-25.md",
-    "assets/img/sticker whatsapp 1.png",
+    "assets/img/sticker1.png",
     "assets/img/Operatori di confronto.png",
     "MOC/Fondamenti di Programmazione.md",
     "assets/PDF/Fondamenti di programmazione PDF1.pdf",

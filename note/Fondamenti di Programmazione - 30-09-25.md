@@ -78,7 +78,7 @@ if( a > b ){
 
 # Diagramma di flusso
 
-![[sticker whatsapp 1.png]]
+![[sticker1.png]]
 
 
 ---

@@ -1,1 +1,1 @@
-![[sticker whatsapp 1.png]]
+![](assets/img/sticker1.png)
