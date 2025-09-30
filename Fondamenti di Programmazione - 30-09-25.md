@@ -27,6 +27,8 @@ NON SI CAPISCE UN CAZZO QUANDO SPIEGA
 
 # Operazioni di confronto
 
+![[Operatori di confronto.png]]
+
 ``` C++
 float f1 = 3.5f
 bool b2 = f1 < 7.4f;        // < è l'operatore di confronto, che in questo caso
@@ -39,5 +41,44 @@ L'FPU invece si occupa di effettuare le operazioni aritmetiche fra numeri decima
 
 ---
 
+# selection-statement
+
+questo statement contiene al suo interno:
+- if-statement
+- switch-statement
+
+#### ==if-statement==
+```C++
+if (condition) {
+	statement
+}
+
+//oppure 
+
+if (condition) {
+	statement
+} else {
+	statement
+}
+```
+
+esempio
+```C++
+int a, b;
+cin >> a >> b;
+
+if( a > b ){
+	cout << "A è maggiore di B";
+}else{
+	cout << "A è minore di B";
+}
+```
+
+---
+
+# Diagramma di flusso
+
+![[sticker whatsapp 1.png]]
 
 
+---
