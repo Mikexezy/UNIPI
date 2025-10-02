@@ -4,47 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "d33e59763d0bab9d",
+        "id": "3d730bea6b72e48e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0575574ca48cfbc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4cb61555a557ee65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/PDF/Algebra Lineare - 24-09-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Algebra Lineare - 24-09-25"
-            }
-          },
-          {
-            "id": "be613475b4344bb3",
+            "id": "a37f3998d33c412e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Fondamenti di Programmazione - 23-09-25.md",
+                "file": "note/Analisi 1 - 24-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondamenti di Programmazione - 23-09-25"
+              "title": "Analisi 1 - 24-09-25"
+            }
+          },
+          {
+            "id": "dd506058dd8a4353",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/PDF/Algebra Lineare - 25-09-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algebra Lineare - 25-09-25"
+            }
+          },
+          {
+            "id": "4d015f64ded8514d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Algebra Lineare - 26-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebra Lineare - 26-09-25"
+            }
+          },
+          {
+            "id": "b55f9e9d8b171f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Algebra Lineare - 30-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebra Lineare - 30-09-25"
+            }
+          },
+          {
+            "id": "de0a7aa20b3a09e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/note/Analisi 1 - 30-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analisi 1 - 30-09-25"
+            }
+          },
+          {
+            "id": "5b3175b8f612d906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/note/Analisi 1 - 30-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analisi 1 - 30-09-25"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +246,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be613475b4344bb3",
+  "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
+    "assets/PDF/Analisi 1 - 01-10-25.pdf",
+    "temp/assets/img",
+    "temp/assets/PDF",
+    "temp/assets",
+    "temp/note",
+    "temp/note/Analisi 1 - 30-09-25.md",
+    "temp/assets/PDF/analisi 30 sett.pdf",
+    "note/Analisi 1 - 01-10-25.md",
+    "note/Algebra Lineare - 30-09-25.md",
+    "assets/PDF/Algebra Lineare - 30-09-25.pdf",
+    "note/Algebra Lineare - 26-09-25.md",
+    "assets/PDF/Algebra 26 - 26-09-25.pdf",
+    "assets/PDF/Algebra Lineare - 25-09-25.pdf",
+    "temp/note/Fondamenti di Programmazione - 02-10-25.md",
+    "note/Algebra Lineare - 25-09-25.md",
+    "note/Analisi 1 - 24-09-25.md",
+    "note/Fondamenti di Programmazione - 30-09-25.md",
+    "note/Algebra Lineare - 24-09-25.md",
     "note/Fondamenti di Programmazione - 01-10-25.md",
+    "note/Fondamenti di Programmazione - 23-09-25.md",
+    "note/Fondamenti di Programmazione - 24-09-25.md",
+    "note/Lab Fondamenti di Programmazione - 02-10-25.md",
+    "note/Fondamenti di Programmazione 25-09-25.md",
+    "note/Lab Fondamenti di Programmazione - 25-09-25.md",
     "note/Algebra Lineare - 23-09-25.md",
     "MOC/Analisi 1.md",
     "MOC/Lab Fondamenti di Programmazione.md",
-    "note/Lab Fondamenti di Programmazione - 02-10-25.md",
     "assets/img/Lab Fondamenti di Programmazione 2.2.png",
     "assets/img/Lab Fondamenti di Programmazione 2.8.png",
     "assets/img/Lab Fondamenti di Programmazione 2.7.png",
@@ -220,30 +287,12 @@
     "Screenshot 2025-10-02 at 16.24.08.png",
     "Screenshot 2025-10-02 at 16.13.00.png",
     "assets/PDF/lab02.pdf",
-    "temp/Fondamenti di Programmazione - 02-10-25.md",
-    "note/Lab Fondamenti di Programmazione - 25-09-25.md",
-    "note/Algebra Lineare - 24-09-25.md",
-    "note/Analisi 1 - 24-09-25.md",
     "README.md",
-    "note/Fondamenti di Programmazione - 30-09-25.md",
-    "assets/PDF/Fondamenti di programmazione PDF2.pdf",
-    "assets/PDF/Fondamenti di programmazione PDF1.pdf",
-    "note/Fondamenti di Programmazione - 24-09-25.md",
-    "assets/PDF/Analisi 1 - 24-09-25.pdf",
-    "assets/PDF/Geometria e algebra lineare.pdf",
-    "assets/PDF/lab01.pdf",
-    "note/Fondamenti di Programmazione 25-09-25.md",
     "assets/img/sticker.md",
-    "note/Fondamenti di Programmazione - 23-09-25.md",
     "note/Analisi 1  - 23-09-25.md",
     "MOC/Fondamenti di Programmazione.md",
-    "analisi da sistemare.pdf",
-    "assets/PDF/Pagani-Salsa Analisi 1.pdf",
     "MOC/Geometria e Algebra Lineare.md",
-    "assets/PDF/Algebra Lineare - 23-09-25.pdf",
     "23-09-25.md",
-    "2025-09-23.md",
-    "Ciao questo è il mio primo file di prova del vault..md",
-    "Welcome.md"
+    "2025-09-23.md"
   ]
 }
