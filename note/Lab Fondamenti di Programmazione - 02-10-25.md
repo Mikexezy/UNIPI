@@ -26,6 +26,7 @@ MOC: "[[Lab Fondamenti di Programmazione]]"
 
 # 2.5
 ![[Lab Fondamenti di Programmazione 2.5.png]]
+>b deve essere uguale al primo intero del vettore, ho dimenticato ad assegnarlo.
 
 ---
 
