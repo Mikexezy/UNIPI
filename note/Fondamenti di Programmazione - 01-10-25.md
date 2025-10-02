@@ -19,3 +19,11 @@ cout << a > 6 ? "a è maggiore di 6" : "zitto";
 
 ![[Esempi tipo di carattere.png]]
 
+---
+
+# Chill
+
+Il prof parla della tabella ASCII e di come funzionano i char per circa 40 minuti.
+Aggiunge i char nella condizione di un if 🤯
+
+

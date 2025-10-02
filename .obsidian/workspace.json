@@ -25,9 +25,21 @@
             "id": "4cb61555a557ee65",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/PDF/Algebra Lineare - 24-09-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algebra Lineare - 24-09-25"
+            }
+          },
+          {
+            "id": "be613475b4344bb3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Fondamenti di Programmazione - 01-10-25.md",
+                "file": "note/Fondamenti di Programmazione - 01-10-25.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +47,8 @@
               "title": "Fondamenti di Programmazione - 01-10-25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,21 +206,23 @@
   },
   "active": "cf162d84c6d603ff",
   "lastOpenFiles": [
+    "note/Algebra Lineare - 24-09-25.md",
+    "note/Analisi 1 - 24-09-25.md",
+    "assets/PDF/Algebra Lineare - 24-09-25.pdf",
+    "README.md",
+    "note/Fondamenti di Programmazione - 01-10-25.md",
+    "note/Fondamenti di Programmazione - 30-09-25.md",
+    "note/Lab Fondamenti di Programmazione - 25-09-25.md",
     "assets/img/Esempi tipo di carattere.png",
     "assets/PDF/Fondamenti di programmazione PDF2.pdf",
     "assets/PDF/Fondamenti di programmazione PDF1.pdf",
     "note/Fondamenti di Programmazione - 24-09-25.md",
-    "temp/Fondamenti di Programmazione - 01-10-25.md",
     "assets/PDF/Analisi 1 - 24-09-25.pdf",
     "assets/PDF/Geometria e algebra lineare.pdf",
     "assets/PDF/lab01.pdf",
     "note/Fondamenti di Programmazione 25-09-25.md",
-    "note/Fondamenti di Programmazione - 30-09-25.md",
-    "note/Analisi 1 - 24-09-25.md",
-    "README.md",
     "assets/img/sticker.md",
     "assets/img/Struttura di un programma.png",
-    "note/Lab Fondamenti di Programmazione - 25-09-25.md",
     "note/Fondamenti di Programmazione - 23-09-25.md",
     "note/Analisi 1  - 23-09-25.md",
     "note/Algebra Lineare - 23-09-25.md",
@@ -224,13 +239,11 @@
     "assets/img/Esercizio 1.3 25-09-25.png",
     "MOC/Lab Fondamenti di Programmazione.md",
     "MOC/Geometria e Algebra Lineare.md",
-    "assets/img/Suddivisione Numero Binario 25-09-25.png",
     "assets/PDF/Algebra Lineare - 23-09-25.pdf",
     "assets/PDF/Analisi 1  - 23-09-25.pdf",
     "23-09-25.md",
     "2025-09-23.md",
     "MOC/Analisi 1.md",
-    "AlgLin 1.pdf",
     "Ciao questo è il mio primo file di prova del vault..md",
     "Welcome.md"
   ]
