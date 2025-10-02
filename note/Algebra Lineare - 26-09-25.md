@@ -3,7 +3,7 @@ MOC: "[[Geometria e Algebra Lineare]]"
 ---
 # Appunti
 
-![[Algebra 26 - 26-09-25.pdf]]
+![[Algebra Lineare - 26-09-25.pdf]]
 
 ---
 

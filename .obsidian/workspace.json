@@ -79,18 +79,28 @@
             "id": "5b3175b8f612d906",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "temp/note/Analisi 1 - 30-09-25.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/PDF/Pagani-Salsa Analisi 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Analisi 1 - 30-09-25"
+              "icon": "lucide-file-text",
+              "title": "Pagani-Salsa Analisi 1"
+            }
+          },
+          {
+            "id": "f6686490fdc4e1cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/PDF/Geometria e algebra lineare.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Geometria e algebra lineare"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -246,21 +256,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf162d84c6d603ff",
+  "active": "f6686490fdc4e1cc",
   "lastOpenFiles": [
+    "assets/PDF/Pagani-Salsa Analisi 1.pdf",
+    "assets/PDF/lab02.pdf",
+    "assets/PDF/lab01.pdf",
+    "assets/PDF/Fondamenti di programmazione PDF2.pdf",
+    "assets/PDF/Fondamenti di programmazione PDF1.pdf",
+    "assets/PDF/Analisi 1 - 24-09-25.pdf",
+    "assets/PDF/Algebra Lineare - 23-09-25.pdf",
+    "assets/PDF/Geometria e algebra lineare.pdf",
+    "assets/PDF/Algebra Lineare - 26-09-25.pdf",
+    "temp/note/Analisi 1 - 30-09-25.md",
     "assets/PDF/Analisi 1 - 01-10-25.pdf",
     "temp/assets/img",
-    "temp/assets/PDF",
-    "temp/assets",
-    "temp/note",
-    "temp/note/Analisi 1 - 30-09-25.md",
-    "temp/assets/PDF/analisi 30 sett.pdf",
     "note/Analisi 1 - 01-10-25.md",
     "note/Algebra Lineare - 30-09-25.md",
-    "assets/PDF/Algebra Lineare - 30-09-25.pdf",
     "note/Algebra Lineare - 26-09-25.md",
-    "assets/PDF/Algebra 26 - 26-09-25.pdf",
-    "assets/PDF/Algebra Lineare - 25-09-25.pdf",
     "temp/note/Fondamenti di Programmazione - 02-10-25.md",
     "note/Algebra Lineare - 25-09-25.md",
     "note/Analisi 1 - 24-09-25.md",
@@ -281,12 +293,10 @@
     "assets/img/Lab Fondamenti di Programmazione 2.6.png",
     "assets/img/Lab Fondamenti di Programmazione 2.5.png",
     "assets/img/Lab Fondamenti di Programmazione 2.4.png",
-    "assets/PDF/Algebra Lineare - 24-09-25.pdf",
     "assets/img/Lab Fondamenti di Programmazione 2.3.png",
     "Screenshot 2025-10-02 at 16.26.58.png",
     "Screenshot 2025-10-02 at 16.24.08.png",
     "Screenshot 2025-10-02 at 16.13.00.png",
-    "assets/PDF/lab02.pdf",
     "README.md",
     "assets/img/sticker.md",
     "note/Analisi 1  - 23-09-25.md",
