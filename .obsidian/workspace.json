@@ -91,12 +91,14 @@
             "id": "f6686490fdc4e1cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/PDF/Geometria e algebra lineare.pdf"
+                "file": "note/Analisi 1 - 01-10-25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Geometria e algebra lineare"
+              "icon": "lucide-file",
+              "title": "Analisi 1 - 01-10-25"
             }
           }
         ],
@@ -258,6 +260,8 @@
   },
   "active": "f6686490fdc4e1cc",
   "lastOpenFiles": [
+    "Fondamenti di Programmazione - 07-10-25.md",
+    "assets/PDF/Geometria e algebra lineare.pdf",
     "assets/PDF/Pagani-Salsa Analisi 1.pdf",
     "assets/PDF/lab02.pdf",
     "assets/PDF/lab01.pdf",
@@ -265,11 +269,9 @@
     "assets/PDF/Fondamenti di programmazione PDF1.pdf",
     "assets/PDF/Analisi 1 - 24-09-25.pdf",
     "assets/PDF/Algebra Lineare - 23-09-25.pdf",
-    "assets/PDF/Geometria e algebra lineare.pdf",
     "assets/PDF/Algebra Lineare - 26-09-25.pdf",
     "temp/note/Analisi 1 - 30-09-25.md",
     "assets/PDF/Analisi 1 - 01-10-25.pdf",
-    "temp/assets/img",
     "note/Analisi 1 - 01-10-25.md",
     "note/Algebra Lineare - 30-09-25.md",
     "note/Algebra Lineare - 26-09-25.md",
@@ -302,7 +304,6 @@
     "note/Analisi 1  - 23-09-25.md",
     "MOC/Fondamenti di Programmazione.md",
     "MOC/Geometria e Algebra Lineare.md",
-    "23-09-25.md",
-    "2025-09-23.md"
+    "23-09-25.md"
   ]
 }
